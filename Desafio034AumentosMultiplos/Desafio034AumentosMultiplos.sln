@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Desafio034AumentosMultiplos", "Desafio034AumentosMultiplos\Desafio034AumentosMultiplos.pyproj", "{D0107B91-6449-496F-A172-3069E01948A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0107B91-6449-496F-A172-3069E01948A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0107B91-6449-496F-A172-3069E01948A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8175736D-CF09-4067-823B-49A8B68B7B8B}
+	EndGlobalSection
+EndGlobal
