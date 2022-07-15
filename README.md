@@ -12,3 +12,9 @@ Exercícios em Python
  * Realizar operações matemáticas usando Python
  * Manipular strings
  * Realizar operações lógicas
+
+## Sobre esse repositório:
+ Estarei colocando vários arquivos (projetos) nesse mesmo repositório, pois se tratam de exercícios, coisas básicas para os estudos.
+ Os projetos avançados eu irei colocar em repositórios separados.
+ 
+![Python](https://i.ibb.co/f4JhKPP/python.png)
