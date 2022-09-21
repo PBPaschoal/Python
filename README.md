@@ -1,5 +1,6 @@
 # Python 💬
 Exercícios em Python
+* OBS: Como são exercícios básicos ao avançado, estou colocando todos nesse mesmo repositório. Projetos mais complexos farei um novo.
 # Curso Udemy
  * Introdução à linguagem Python
  * Professor: Diego Mariano
