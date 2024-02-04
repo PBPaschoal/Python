@@ -1,0 +1,7 @@
+print("Operações Matematicas:")
+print("\nAdição: ", 2 + 2)
+print("Subtração: ", 2 - 1)
+print("Multiplicação: ", 2 * 2)
+print("Divisão: ", 8 / 2)
+print("Exponenciação : ", 5 ** 5)
+print("Módulo: ", 12 % 2, "\n")

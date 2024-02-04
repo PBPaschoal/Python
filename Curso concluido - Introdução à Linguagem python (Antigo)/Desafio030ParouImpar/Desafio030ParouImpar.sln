@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Desafio030ParouImpar", "Desafio030ParouImpar\Desafio030ParouImpar.pyproj", "{04E6C660-63B5-49C0-B90F-AE05CA0507BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E6C660-63B5-49C0-B90F-AE05CA0507BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E6C660-63B5-49C0-B90F-AE05CA0507BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F112F16-278E-45FC-99E7-1387EFD96AA1}
+	EndGlobalSection
+EndGlobal
