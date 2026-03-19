@@ -3,6 +3,8 @@
 # - Imprimir números de 1 a 10
 # Pense em como usar um laço de repetição (for ou while).
 # Dica: o range() pode te ajudar.
+
+# Primeira versão:
 print('For')
 for numero in range(1, 11):
     print(numero)
@@ -10,6 +12,7 @@ for numero in range(1, 11):
 print('While')
 contagem = 1
 
+# Segunda versão:
 while contagem <= 10:
     print(contagem)
     contagem += 1
